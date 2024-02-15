@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitbha
-- 👀 I’m interested in DevOps, cloud architecture, automation, and security. I specialize in PAM (Privileged Access Management), IAM (Identity and Access Management), microservices development, CI/CD implementation, and infrastructure as code with a strong focus on Terraform, Azure, and AWS.
-- 🌱 I’m currently learning advanced cloud security practices and enhancing my skills in Google Cloud Platform, particularly Google Kubernetes Engine (GKE). I'm also focused on continuous improvement in DevOps methodologies and staying updated with the latest in cloud and automation technologies.
+- 👀 I’m interested in DevOps, cloud architecture, automation, and security. I specialize in Google Cloud Platform, particularly Google Kubernetes Engine (GKE), microservices development, CI/CD implementation, and infrastructure as code with a strong focus on Terraform, Azure, and AWS.
+- 🌱 I’m currently learning advanced cloud security practices and enhancing my skills in PAM (Privileged Access Management), IAM (Identity and Access Management). I'm also focused on continuous improvement in DevOps methodologies and staying updated with the latest in cloud and automation technologies.
 - 💞️ I’m looking to collaborate on projects involving cloud infrastructure, automation, DevOps practices, and security. I'm also interested in contributing to microservices architecture development and implementation projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vsaniteshbhat)
 - 😄 Pronouns: He/Him
